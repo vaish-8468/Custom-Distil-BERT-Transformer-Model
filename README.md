@@ -31,15 +31,19 @@ To deploy this project run the training and main notebooks, by correctly mountin
 ## Statistics 
 
 - Initial Model
+
 ![InitialModel](https://github.com/aryannewyork/CELO-Charity/assets/79625246/348adfc4-6c4a-4969-9dc6-a78068e1f1e3)
 
 - Trained Model 1 with number of attention heads (n_heads) = 12
+
 ![Model1](https://github.com/aryannewyork/CELO-Charity/assets/79625246/69591220-defd-47a5-8199-976f02e01174)
 
 - Trained Model 2 with number of attention heads (n_heads) = 8
+
 ![Model2](https://github.com/aryannewyork/Custom-BERT/assets/79625246/b8c4bb08-8d12-47a2-ae6f-0419c255b931)
 
 - Training Loss
+
 ![loss](https://github.com/aryannewyork/Custom-BERT/assets/79625246/1fa05639-9941-45b0-8225-d9ce1172ced0)
 
 
